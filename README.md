@@ -1,2 +1,2 @@
 # Giorgi-Acharadze-Animation2-davaleba-6
-Animation 2 
+Created animation with html and pure css.
